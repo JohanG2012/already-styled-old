@@ -1,0 +1,1 @@
+"use strict";function _interopDefault(e){return e&&"object"==typeof e&&"default"in e?e.default:e}require("styled-components"),require("react");var PropTypes=_interopDefault(require("prop-types")),propTypes={heading:PropTypes.string};
